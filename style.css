@@ -378,7 +378,7 @@ html,body{
 }
 /* Contact form */
 .contact{
-  background: rgba(0, 0, 0, 0.8) url(contact3.jpg);
+  background: rgba(0, 0, 0, 0.8) url(assets/contact/contact3.jpg);
   padding-bottom: 5%;
   background-repeat: no-repeat;
   background-size: cover;
